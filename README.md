@@ -5,6 +5,7 @@
 I am a young man studying system engineering, interested in learning and practicing programming in my life. In this repository I will be uploading all the codes developed by me.
 
 **Skills:** C#, C ,C++, Java, HTML, Blazor Server, SQL Server.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielEmill)](https://github.com/anuraghazra/github-readme-stats)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DanielEmill)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/Emill_Daniel/)
 

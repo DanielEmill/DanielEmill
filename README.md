@@ -15,5 +15,3 @@ I am a young man studying system engineering, interested in learning and practic
 - 📫 **How to reach me:** danielemill1202@gmail.com 
 - ⚡ **Fun fact:** I am a CS GO player.
 
-![Profile views](https://gpvc.arturio.dev/DanielEmill)  
-
